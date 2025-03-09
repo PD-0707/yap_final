@@ -58,7 +58,7 @@ Built using **Flutter**, our app provides a seamless user experience, connecting
 ### **Backend - AI & API Integration**  
 Technologies Used:  
 - **Dart (for Flutter)** → Handles frontend logic.  
-- **Flash (for backend API handling)** → Connects AI models with the app.  
+- **Flask (for backend API handling)** → Connects AI models with the app.  
 - **OpenAI GPT-4o API** → Handles fact-checking and content verification.  
 - **Pretrained NLP Models** → Used for grammar, toxicity, and structure analysis.  
 
